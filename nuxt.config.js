@@ -1,7 +1,11 @@
 export default {
   target: 'static',
 
+  ssr: typeof process.env.NACELLE_PREVIEW_MODE === 'string' && 
+  process.env.NACELLE_PREVIEW_MODE === 'true',
+
   // Global page headers: https://go.nuxtjs.dev/config-head
+
   head: {
     title: process.env.npm_package_name || '',
     meta: [
