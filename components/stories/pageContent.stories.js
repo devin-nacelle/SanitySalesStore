@@ -91,8 +91,7 @@ const defaultObj = {
           fields: {
             title: 'jupiter-bed',
             file: {
-              url:
-                '//images.ctfassets.net/9n7z3zrrmdu4/4ykTjR1fM1563524AIRvq2/59e172a7ab0783ea77a792dcef6faf39/iStock-476157466.jpg',
+              url: '//images.ctfassets.net/9n7z3zrrmdu4/4ykTjR1fM1563524AIRvq2/59e172a7ab0783ea77a792dcef6faf39/iStock-476157466.jpg',
               details: {
                 size: 114815,
                 image: {
@@ -136,8 +135,7 @@ const defaultObj = {
           fields: {
             title: 'demo-photo1',
             file: {
-              url:
-                '//images.ctfassets.net/9n7z3zrrmdu4/2mri2qBxe39mYOENoIIHTx/5a453f3dabec858c0090f09b746df307/demo-photo1.jpeg',
+              url: '//images.ctfassets.net/9n7z3zrrmdu4/2mri2qBxe39mYOENoIIHTx/5a453f3dabec858c0090f09b746df307/demo-photo1.jpeg',
               details: {
                 size: 124110,
                 image: {
@@ -272,8 +270,7 @@ const defaultObj = {
           fields: {
             title: 'demo-photo3',
             file: {
-              url:
-                '//images.ctfassets.net/9n7z3zrrmdu4/5YSVUJO2PAFG8lvvCOg1Jd/335b6e906be4e5638dc597c41033e4e3/demo-photo3.jpeg',
+              url: '//images.ctfassets.net/9n7z3zrrmdu4/5YSVUJO2PAFG8lvvCOg1Jd/335b6e906be4e5638dc597c41033e4e3/demo-photo3.jpeg',
               details: {
                 size: 164105,
                 image: {

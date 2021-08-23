@@ -11,8 +11,7 @@ describe('CartFlyoutItemRemoveButton.vue', () => {
     const store = new Vuex.Store(storeConfig())
     store.state.cart.lineItems = [
       {
-        id:
-          'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yODU2ODgyMDAyMzQwMQ==::ae9703f4-9810-4ac8-bc2b-38f0e57d7028',
+        id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yODU2ODgyMDAyMzQwMQ==::ae9703f4-9810-4ac8-bc2b-38f0e57d7028',
         image: {
           source: 'https://nacelle-assets.s3-us-west-2.amazonaws.com/shirt.jpg'
         },

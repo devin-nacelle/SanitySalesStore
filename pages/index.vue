@@ -2,7 +2,7 @@
   <div>
     <page-content class="page" :page="page" />
     <nacelle-page-placeholder
-      v-if="this.$fetchState.pending === false && page === null"
+      v-if="$fetchState.pending === false && page === null"
     />
   </div>
 </template>

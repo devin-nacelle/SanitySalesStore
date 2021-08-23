@@ -44,7 +44,7 @@ export default {
     this.products = await Promise.all(products)
   },
   beforeDestroy() {
-    this.products.forEach((product) => {
+    this.products?.forEach((product) => {
       this.$deregisterProduct(product.handle)
     })
   }
