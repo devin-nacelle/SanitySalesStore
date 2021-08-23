@@ -33,6 +33,11 @@ export default {
       if (type === 'cart/addLineItemMutation') {
         this.checkAvailability(payload)
       }
+      if (type === 'cart/setLineItems') {
+        payload.forEach((lineItem) => {
+          this.checkAvailability(lineItem)
+        })
+      }
     })
   },
   methods: {
@@ -47,12 +52,11 @@ export default {
         const variantId = variant.id || ''
 
         if (productId.length > 0 && variantId.length > 0) {
-          const variantAvailable = await this.$nacelle.status.isVariantAvailable(
-            {
+          const variantAvailable =
+            await this.$nacelle.status.isVariantAvailable({
               productId,
               variantId
-            }
-          )
+            })
 
           if (!variantAvailable) {
             this.removeLineItemMutation(productId)

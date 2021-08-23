@@ -102,8 +102,7 @@ export const defaultMultivariate = {
       id: 'Z2lkOi8vc2hvcGlmeS9JbWFnZVNvdXJjZS84NDYxODg1MjEwNzU5',
       thumbnailSrc:
         'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1587622908&width=100',
-      src:
-        'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1587622908',
+      src: 'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1587622908',
       type: 'image',
       altText: 'Alonso Shoes'
     }
@@ -125,8 +124,7 @@ export const defaultMultivariate = {
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTYyODQ5MTgzODI3Mjc=',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708&width=100',
-        src:
-          'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708',
+        src: 'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708',
         type: 'image',
         altText: 'Alonso Shoes'
       },
@@ -150,8 +148,7 @@ export const defaultMultivariate = {
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTYyODQ5MTgzODI3Mjc=',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708&width=100',
-        src:
-          'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708',
+        src: 'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708',
         type: 'image',
         altText: 'Alonso Shoes'
       },
@@ -175,8 +172,7 @@ export const defaultMultivariate = {
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTYyODQ5MTgzODI3Mjc=',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708&width=100',
-        src:
-          'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708',
+        src: 'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1601570708',
         type: 'image',
         altText: 'Alonso Shoes'
       },
@@ -196,8 +192,7 @@ export const defaultMultivariate = {
     id: 'Z2lkOi8vc2hvcGlmeS9JbWFnZVNvdXJjZS84NDYxODg1MjEwNzU5',
     thumbnailSrc:
       'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1587622908&width=100',
-    src:
-      'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1587622908',
+    src: 'https://cdn.shopify.com/s/files/1/0344/4362/4583/products/pexels-photo-1122605.jpg?v=1587622908',
     type: 'image',
     altText: 'Alonso Shoes'
   },
@@ -206,8 +201,7 @@ export const defaultMultivariate = {
 }
 
 export const defaultLineItem = {
-  id:
-    'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yODU2ODgyMDAyMzQwMQ==::ae9703f4-9810-4ac8-bc2b-38f0e57d7028',
+  id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yODU2ODgyMDAyMzQwMQ==::ae9703f4-9810-4ac8-bc2b-38f0e57d7028',
   image: {
     src: 'https://nacelle-assets.s3-us-west-2.amazonaws.com/shirt.jpg',
     thumbnailSrc: 'https://nacelle-assets.s3-us-west-2.amazonaws.com/shirt.jpg'
@@ -238,8 +232,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-on-snowy-afternoon_925x_4fa061a1-b2ab-48e7-ac91-d673dcd9df33.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-on-snowy-afternoon_925x_4fa061a1-b2ab-48e7-ac91-d673dcd9df33.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-on-snowy-afternoon_925x_4fa061a1-b2ab-48e7-ac91-d673dcd9df33.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc0MjQ2MTc=',
@@ -253,8 +246,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-on-snowy-afternoon_925x_4fa061a1-b2ab-48e7-ac91-d673dcd9df33.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc0MjQ2MTc=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-on-snowy-afternoon_925x_4fa061a1-b2ab-48e7-ac91-d673dcd9df33.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-on-snowy-afternoon_925x_4fa061a1-b2ab-48e7-ac91-d673dcd9df33.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -317,8 +309,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-in-the-city_925x_0f029601-0d9c-4275-a9e5-10afc7bc1099.jpg?v=1561603365&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-in-the-city_925x_0f029601-0d9c-4275-a9e5-10afc7bc1099.jpg?v=1561603365&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-in-the-city_925x_0f029601-0d9c-4275-a9e5-10afc7bc1099.jpg?v=1561603365&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgxNDU1MTM=',
@@ -332,8 +323,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-in-the-city_925x_0f029601-0d9c-4275-a9e5-10afc7bc1099.jpg?v=1561603365&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgxNDU1MTM=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-in-the-city_925x_0f029601-0d9c-4275-a9e5-10afc7bc1099.jpg?v=1561603365&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-in-the-city_925x_0f029601-0d9c-4275-a9e5-10afc7bc1099.jpg?v=1561603365&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -397,8 +387,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/autumn-photographer-taking-picture_925x_7d500489-74f1-4e4d-92a3-3b28eb5e511c.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/autumn-photographer-taking-picture_925x_7d500489-74f1-4e4d-92a3-3b28eb5e511c.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/autumn-photographer-taking-picture_925x_7d500489-74f1-4e4d-92a3-3b28eb5e511c.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcwNjQxNjk=',
@@ -412,8 +401,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/autumn-photographer-taking-picture_925x_7d500489-74f1-4e4d-92a3-3b28eb5e511c.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcwNjQxNjk=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/autumn-photographer-taking-picture_925x_7d500489-74f1-4e4d-92a3-3b28eb5e511c.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/autumn-photographer-taking-picture_925x_7d500489-74f1-4e4d-92a3-3b28eb5e511c.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -477,8 +465,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/casual-fashion-woman_925x_f563d529-73d2-47e1-8b7c-9add1d6ea6d1.jpg?v=1561603361&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/casual-fashion-woman_925x_f563d529-73d2-47e1-8b7c-9add1d6ea6d1.jpg?v=1561603361&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/casual-fashion-woman_925x_f563d529-73d2-47e1-8b7c-9add1d6ea6d1.jpg?v=1561603361&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcwMzE0MDE=',
@@ -492,8 +479,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/casual-fashion-woman_925x_f563d529-73d2-47e1-8b7c-9add1d6ea6d1.jpg?v=1561603361&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcwMzE0MDE=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/casual-fashion-woman_925x_f563d529-73d2-47e1-8b7c-9add1d6ea6d1.jpg?v=1561603361&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/casual-fashion-woman_925x_f563d529-73d2-47e1-8b7c-9add1d6ea6d1.jpg?v=1561603361&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -557,8 +543,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/urban-fashion_925x_27b3b06d-6eec-46cb-b918-7ec038e4ddc9.jpg?v=1561603365&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/urban-fashion_925x_27b3b06d-6eec-46cb-b918-7ec038e4ddc9.jpg?v=1561603365&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/urban-fashion_925x_27b3b06d-6eec-46cb-b918-7ec038e4ddc9.jpg?v=1561603365&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgwMTQ0NDE=',
@@ -572,8 +557,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/urban-fashion_925x_27b3b06d-6eec-46cb-b918-7ec038e4ddc9.jpg?v=1561603365&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgwMTQ0NDE=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/urban-fashion_925x_27b3b06d-6eec-46cb-b918-7ec038e4ddc9.jpg?v=1561603365&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/urban-fashion_925x_27b3b06d-6eec-46cb-b918-7ec038e4ddc9.jpg?v=1561603365&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -637,8 +621,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-outside-brownstone_925x_58e81f45-8fc5-4bce-b9a3-337153212976.jpg?v=1561603364&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-outside-brownstone_925x_58e81f45-8fc5-4bce-b9a3-337153212976.jpg?v=1561603364&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-outside-brownstone_925x_58e81f45-8fc5-4bce-b9a3-337153212976.jpg?v=1561603364&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc5MTYxMzc=',
@@ -652,8 +635,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-outside-brownstone_925x_58e81f45-8fc5-4bce-b9a3-337153212976.jpg?v=1561603364&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc5MTYxMzc=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-outside-brownstone_925x_58e81f45-8fc5-4bce-b9a3-337153212976.jpg?v=1561603364&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/woman-outside-brownstone_925x_58e81f45-8fc5-4bce-b9a3-337153212976.jpg?v=1561603364&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -717,8 +699,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/menswear-blue-zip-up-jacket_925x_92a2cf36-3c01-41ce-ba98-bd2180f87a2e.jpg?v=1561603364&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/menswear-blue-zip-up-jacket_925x_92a2cf36-3c01-41ce-ba98-bd2180f87a2e.jpg?v=1561603364&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/menswear-blue-zip-up-jacket_925x_92a2cf36-3c01-41ce-ba98-bd2180f87a2e.jpg?v=1561603364&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc4ODMzNjk=',
@@ -732,8 +713,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/menswear-blue-zip-up-jacket_925x_92a2cf36-3c01-41ce-ba98-bd2180f87a2e.jpg?v=1561603364&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc4ODMzNjk=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/menswear-blue-zip-up-jacket_925x_92a2cf36-3c01-41ce-ba98-bd2180f87a2e.jpg?v=1561603364&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/menswear-blue-zip-up-jacket_925x_92a2cf36-3c01-41ce-ba98-bd2180f87a2e.jpg?v=1561603364&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -796,8 +776,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-hip-woman-at-carnival_925x_ef6eb7b4-da16-459d-be28-adec3194af6c.jpg?v=1561603364&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-hip-woman-at-carnival_925x_ef6eb7b4-da16-459d-be28-adec3194af6c.jpg?v=1561603364&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-hip-woman-at-carnival_925x_ef6eb7b4-da16-459d-be28-adec3194af6c.jpg?v=1561603364&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc4NTA2MDE=',
@@ -811,8 +790,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-hip-woman-at-carnival_925x_ef6eb7b4-da16-459d-be28-adec3194af6c.jpg?v=1561603364&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc4NTA2MDE=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-hip-woman-at-carnival_925x_ef6eb7b4-da16-459d-be28-adec3194af6c.jpg?v=1561603364&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-hip-woman-at-carnival_925x_ef6eb7b4-da16-459d-be28-adec3194af6c.jpg?v=1561603364&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -876,8 +854,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-poses_925x_9dda0507-9535-4cf0-b850-735219f09179.jpg?v=1561603367&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-poses_925x_9dda0507-9535-4cf0-b850-735219f09179.jpg?v=1561603367&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-poses_925x_9dda0507-9535-4cf0-b850-735219f09179.jpg?v=1561603367&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDg2Njk4MDE=',
@@ -891,8 +868,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-poses_925x_9dda0507-9535-4cf0-b850-735219f09179.jpg?v=1561603367&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDg2Njk4MDE=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-poses_925x_9dda0507-9535-4cf0-b850-735219f09179.jpg?v=1561603367&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/smiling-woman-poses_925x_9dda0507-9535-4cf0-b850-735219f09179.jpg?v=1561603367&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -956,8 +932,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/red-plaid-shirt_925x_98a7db04-7288-4dd9-ba7d-76b86e2bd3fe.jpg?v=1561603364&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/red-plaid-shirt_925x_98a7db04-7288-4dd9-ba7d-76b86e2bd3fe.jpg?v=1561603364&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/red-plaid-shirt_925x_98a7db04-7288-4dd9-ba7d-76b86e2bd3fe.jpg?v=1561603364&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc5NDg5MDU=',
@@ -971,8 +946,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/red-plaid-shirt_925x_98a7db04-7288-4dd9-ba7d-76b86e2bd3fe.jpg?v=1561603364&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc5NDg5MDU=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/red-plaid-shirt_925x_98a7db04-7288-4dd9-ba7d-76b86e2bd3fe.jpg?v=1561603364&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/red-plaid-shirt_925x_98a7db04-7288-4dd9-ba7d-76b86e2bd3fe.jpg?v=1561603364&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1036,8 +1010,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-female-models-denim_925x_3554aea1-4caa-4201-85c2-a29efbd41b74.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-female-models-denim_925x_3554aea1-4caa-4201-85c2-a29efbd41b74.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-female-models-denim_925x_3554aea1-4caa-4201-85c2-a29efbd41b74.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDczMjYzMTM=',
@@ -1100,8 +1073,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/striped-blouse-fashion_925x_80c75e3d-0d1e-4901-bcba-2482997683e2.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/striped-blouse-fashion_925x_80c75e3d-0d1e-4901-bcba-2482997683e2.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/striped-blouse-fashion_925x_80c75e3d-0d1e-4901-bcba-2482997683e2.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcyMjgwMDk=',
@@ -1115,8 +1087,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/striped-blouse-fashion_925x_80c75e3d-0d1e-4901-bcba-2482997683e2.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcyMjgwMDk=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/striped-blouse-fashion_925x_80c75e3d-0d1e-4901-bcba-2482997683e2.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/striped-blouse-fashion_925x_80c75e3d-0d1e-4901-bcba-2482997683e2.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1181,8 +1152,7 @@ export const mockProductCollection = {
         { name: 'Color', values: ['Red', 'Blue'], __typename: 'ProductOption' }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-man-in-bright-fashion_925x_8565e071-cb7b-4688-9c5b-bce928c71020.jpg?v=1561603361&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-man-in-bright-fashion_925x_8565e071-cb7b-4688-9c5b-bce928c71020.jpg?v=1561603361&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-man-in-bright-fashion_925x_8565e071-cb7b-4688-9c5b-bce928c71020.jpg?v=1561603361&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDY5OTg2MzM=',
@@ -1196,8 +1166,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-man-in-bright-fashion_925x_8565e071-cb7b-4688-9c5b-bce928c71020.jpg?v=1561603361&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDY5OTg2MzM=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-man-in-bright-fashion_925x_8565e071-cb7b-4688-9c5b-bce928c71020.jpg?v=1561603361&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/young-man-in-bright-fashion_925x_8565e071-cb7b-4688-9c5b-bce928c71020.jpg?v=1561603361&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1255,8 +1224,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/womens-red-t-shirt_925x_b6d518fb-5042-4d2f-81e0-84e384f77093.jpg?v=1561603365&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/womens-red-t-shirt_925x_b6d518fb-5042-4d2f-81e0-84e384f77093.jpg?v=1561603365&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/womens-red-t-shirt_925x_b6d518fb-5042-4d2f-81e0-84e384f77093.jpg?v=1561603365&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgwNzk5Nzc=',
@@ -1270,8 +1238,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/womens-red-t-shirt_925x_b6d518fb-5042-4d2f-81e0-84e384f77093.jpg?v=1561603365&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgwNzk5Nzc=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/womens-red-t-shirt_925x_b6d518fb-5042-4d2f-81e0-84e384f77093.jpg?v=1561603365&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/womens-red-t-shirt_925x_b6d518fb-5042-4d2f-81e0-84e384f77093.jpg?v=1561603365&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1340,8 +1307,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/man-adjusts-blue-tuxedo-bowtie_925x_466837d5-6442-4190-ae3e-bb28b0a7de56.jpg?v=1561603365&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/man-adjusts-blue-tuxedo-bowtie_925x_466837d5-6442-4190-ae3e-bb28b0a7de56.jpg?v=1561603365&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/man-adjusts-blue-tuxedo-bowtie_925x_466837d5-6442-4190-ae3e-bb28b0a7de56.jpg?v=1561603365&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgwNDcyMDk=',
@@ -1404,8 +1370,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/leather-jacket-and-tea_925x_4f2a53f7-790e-4f37-b47e-09051253a731.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/leather-jacket-and-tea_925x_4f2a53f7-790e-4f37-b47e-09051253a731.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/leather-jacket-and-tea_925x_4f2a53f7-790e-4f37-b47e-09051253a731.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDczOTE4NDk=',
@@ -1419,8 +1384,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/leather-jacket-and-tea_925x_4f2a53f7-790e-4f37-b47e-09051253a731.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDczOTE4NDk=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/leather-jacket-and-tea_925x_4f2a53f7-790e-4f37-b47e-09051253a731.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/leather-jacket-and-tea_925x_4f2a53f7-790e-4f37-b47e-09051253a731.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1484,8 +1448,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/mens-fall-fashion-jacket_925x_cfc8ed29-8326-4803-86a8-fcf0d5f332d2.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/mens-fall-fashion-jacket_925x_cfc8ed29-8326-4803-86a8-fcf0d5f332d2.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/mens-fall-fashion-jacket_925x_cfc8ed29-8326-4803-86a8-fcf0d5f332d2.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDczNTkwODE=',
@@ -1499,8 +1462,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/mens-fall-fashion-jacket_925x_cfc8ed29-8326-4803-86a8-fcf0d5f332d2.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDczNTkwODE=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/mens-fall-fashion-jacket_925x_cfc8ed29-8326-4803-86a8-fcf0d5f332d2.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/mens-fall-fashion-jacket_925x_cfc8ed29-8326-4803-86a8-fcf0d5f332d2.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1563,8 +1525,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/city-woman-fashion_925x_2x_c395ec8f-ee25-4e9f-87b2-f0e18ca10101.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/city-woman-fashion_925x_2x_c395ec8f-ee25-4e9f-87b2-f0e18ca10101.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/city-woman-fashion_925x_2x_c395ec8f-ee25-4e9f-87b2-f0e18ca10101.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcyOTM1NDU=',
@@ -1578,8 +1539,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/city-woman-fashion_925x_2x_c395ec8f-ee25-4e9f-87b2-f0e18ca10101.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDcyOTM1NDU=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/city-woman-fashion_925x_2x_c395ec8f-ee25-4e9f-87b2-f0e18ca10101.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/city-woman-fashion_925x_2x_c395ec8f-ee25-4e9f-87b2-f0e18ca10101.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1643,8 +1603,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/putting-on-your-shoes_925x_136f5880-fede-4feb-bbb1-253ef35279c6.jpg?v=1561603365&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/putting-on-your-shoes_925x_136f5880-fede-4feb-bbb1-253ef35279c6.jpg?v=1561603365&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/putting-on-your-shoes_925x_136f5880-fede-4feb-bbb1-253ef35279c6.jpg?v=1561603365&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgxMTI3NDU=',
@@ -1658,8 +1617,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/putting-on-your-shoes_925x_136f5880-fede-4feb-bbb1-253ef35279c6.jpg?v=1561603365&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDgxMTI3NDU=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/putting-on-your-shoes_925x_136f5880-fede-4feb-bbb1-253ef35279c6.jpg?v=1561603365&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/putting-on-your-shoes_925x_136f5880-fede-4feb-bbb1-253ef35279c6.jpg?v=1561603365&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1717,8 +1675,7 @@ export const mockProductCollection = {
         }
       ],
       featuredMedia: {
-        src:
-          'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/black-bag-over-the-shoulder_925x_1e92bfd0-e16d-4864-b765-3fb3f528a6c8.jpg?v=1561603362&width=750',
+        src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/black-bag-over-the-shoulder_925x_1e92bfd0-e16d-4864-b765-3fb3f528a6c8.jpg?v=1561603362&width=750',
         thumbnailSrc:
           'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/black-bag-over-the-shoulder_925x_1e92bfd0-e16d-4864-b765-3fb3f528a6c8.jpg?v=1561603362&width=250',
         id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc0NTczODU=',
@@ -1732,8 +1689,7 @@ export const mockProductCollection = {
               thumbnailSrc:
                 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/black-bag-over-the-shoulder_925x_1e92bfd0-e16d-4864-b765-3fb3f528a6c8.jpg?v=1561603362&width=250',
               id: 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTEzNzgyMDc0NTczODU=',
-              src:
-                'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/black-bag-over-the-shoulder_925x_1e92bfd0-e16d-4864-b765-3fb3f528a6c8.jpg?v=1561603362&width=750',
+              src: 'https://cdn.shopify.com/s/files/1/0248/6308/0553/products/black-bag-over-the-shoulder_925x_1e92bfd0-e16d-4864-b765-3fb3f528a6c8.jpg?v=1561603362&width=750',
               type: 'image',
               __typename: 'Media'
             },
@@ -1756,8 +1712,7 @@ export const mockProductCollection = {
 }
 
 export const shopifyArticle = {
-  id:
-    'starship.myshopify.com::article::blog::exceeding-reaction-chamber-thermal-limit::en-us',
+  id: 'starship.myshopify.com::article::blog::exceeding-reaction-chamber-thermal-limit::en-us',
   handle: 'exceeding-reaction-chamber-thermal-limit',
   locale: 'en-us',
   globalHandle: 'exceeding-reaction-chamber-thermal-limit::en-us',
@@ -1777,8 +1732,7 @@ export const shopifyArticle = {
     id: 'Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvNjIzMzMyNTYwNA==',
     thumbnailSrc:
       'https://cdn.shopify.com/s/files/1/0094/4098/5124/articles/demo-photo3.jpeg?v=1563228970&width=100',
-    src:
-      'https://cdn.shopify.com/s/files/1/0094/4098/5124/articles/demo-photo3.jpeg?v=1563228970',
+    src: 'https://cdn.shopify.com/s/files/1/0094/4098/5124/articles/demo-photo3.jpeg?v=1563228970',
     type: 'image',
     altText: null
   },
@@ -1800,8 +1754,7 @@ export const contentfulArticle = {
   featuredMedia: {
     id: '69gkblbFrNZ9GzBlk9gmpQ',
     type: 'image/jpeg',
-    src:
-      '//images.ctfassets.net/9n7z3zrrmdu4/69gkblbFrNZ9GzBlk9gmpQ/d37e7ccccedb1e34930dd8efcc6d7509/demo-photo5.jpeg'
+    src: '//images.ctfassets.net/9n7z3zrrmdu4/69gkblbFrNZ9GzBlk9gmpQ/d37e7ccccedb1e34930dd8efcc6d7509/demo-photo5.jpeg'
   },
   contentHtml: null,
   fields: {
@@ -1997,8 +1950,7 @@ export const defaultContent = {
           fields: {
             title: 'jupiter-bed',
             file: {
-              url:
-                '//images.ctfassets.net/9n7z3zrrmdu4/4ykTjR1fM1563524AIRvq2/59e172a7ab0783ea77a792dcef6faf39/iStock-476157466.jpg',
+              url: '//images.ctfassets.net/9n7z3zrrmdu4/4ykTjR1fM1563524AIRvq2/59e172a7ab0783ea77a792dcef6faf39/iStock-476157466.jpg',
               details: {
                 size: 114815,
                 image: {
@@ -2042,8 +1994,7 @@ export const defaultContent = {
           fields: {
             title: 'demo-photo1',
             file: {
-              url:
-                '//images.ctfassets.net/9n7z3zrrmdu4/2mri2qBxe39mYOENoIIHTx/5a453f3dabec858c0090f09b746df307/demo-photo1.jpeg',
+              url: '//images.ctfassets.net/9n7z3zrrmdu4/2mri2qBxe39mYOENoIIHTx/5a453f3dabec858c0090f09b746df307/demo-photo1.jpeg',
               details: {
                 size: 124110,
                 image: {
@@ -2178,8 +2129,7 @@ export const defaultContent = {
           fields: {
             title: 'demo-photo3',
             file: {
-              url:
-                '//images.ctfassets.net/9n7z3zrrmdu4/5YSVUJO2PAFG8lvvCOg1Jd/335b6e906be4e5638dc597c41033e4e3/demo-photo3.jpeg',
+              url: '//images.ctfassets.net/9n7z3zrrmdu4/5YSVUJO2PAFG8lvvCOg1Jd/335b6e906be4e5638dc597c41033e4e3/demo-photo3.jpeg',
               details: {
                 size: 164105,
                 image: {
@@ -2300,8 +2250,7 @@ export const defaultContent = {
                 fields: {
                   title: '300x300',
                   file: {
-                    url:
-                      '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
+                    url: '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
                     details: {
                       size: 1132,
                       image: {
@@ -2376,8 +2325,7 @@ export const defaultContent = {
                 fields: {
                   title: '300x300',
                   file: {
-                    url:
-                      '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
+                    url: '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
                     details: {
                       size: 1132,
                       image: {
@@ -2452,8 +2400,7 @@ export const defaultContent = {
                 fields: {
                   title: '300x300',
                   file: {
-                    url:
-                      '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
+                    url: '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
                     details: {
                       size: 1132,
                       image: {
@@ -2528,8 +2475,7 @@ export const defaultContent = {
                 fields: {
                   title: '300x300',
                   file: {
-                    url:
-                      '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
+                    url: '//images.ctfassets.net/9n7z3zrrmdu4/1KsG8pQDYVLqlHdVl0XSF8/05b9cffbeb36a7de9da5d31e0fbb7aea/300x300.png',
                     details: {
                       size: 1132,
                       image: {

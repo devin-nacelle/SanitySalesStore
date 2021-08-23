@@ -23,7 +23,7 @@ export const ProductGrid = () => ({
     }
   },
   created() {
-    this.products.forEach((product) => {
+    this.products?.forEach((product) => {
       const namespace = `product/${product.handle}`
       if (!this.$store.hasModule(namespace)) {
         this.$store.registerModule(namespace, productModule(), {

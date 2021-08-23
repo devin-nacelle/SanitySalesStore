@@ -1,5 +1,5 @@
 import NacelleSanityPreviewConnector from '@nacelle/sanity-preview-connector'
-​
+
 export default ({ app, $config }) => {
   const {
     NACELLE_PREVIEW_MODE,
@@ -7,7 +7,7 @@ export default ({ app, $config }) => {
     SANITY_DATASET,
     SANITY_TOKEN
   } = process.env
-​
+
   if (NACELLE_PREVIEW_MODE === 'true') {
     // Checks .env file for proper config variables
     if (!SANITY_PROJECT_ID) {
@@ -25,7 +25,7 @@ export default ({ app, $config }) => {
         "Couldn't get data from your CMS. Make sure to include SANITY_TOKEN in your .env file"
       )
     }
-​
+
     // Initialize the Sanity Preview Connector
     const sanityConnector = new NacelleSanityPreviewConnector({
       endpoint: $config.nacelleEndpoint,
@@ -38,7 +38,7 @@ export default ({ app, $config }) => {
         apiVersion: '2021-03-25' // use a UTC date string
       }
     })
-​
+
     // Update the Nacelle JS SDK Data module to use preview connector
     app.$nacelle.data.update({
       connector: sanityConnector

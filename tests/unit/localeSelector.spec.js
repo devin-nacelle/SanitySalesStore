@@ -1,9 +1,8 @@
 import Vuex from 'vuex'
 import { mount, createLocalVue } from '@vue/test-utils'
+import { defaultLocales } from '../../tests/mocks/defaultObjects'
 import LocaleSelector from '@/components/nacelle/LocaleSelector'
 import storeConfig from '@/tests/storeConfig'
-
-import { defaultLocales } from '../../tests/mocks/defaultObjects'
 
 describe('LocaleSelector.vue', () => {
   let store

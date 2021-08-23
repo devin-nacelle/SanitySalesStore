@@ -8,8 +8,7 @@ export default {
 export const Logo = () => ({
   data() {
     return {
-      src:
-        'https://nacelle-assets.s3-us-west-2.amazonaws.com/nacelle-logo-dark.png'
+      src: 'https://nacelle-assets.s3-us-west-2.amazonaws.com/nacelle-logo-dark.png'
     }
   },
   template: `<interface-logo :src='src'

@@ -25,8 +25,7 @@ export default {
     id: 'Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvNjIzMzM1ODM3Mg==',
     thumbnailSrc:
       'https://cdn.shopify.com/s/files/1/0094/4098/5124/articles/demo-photo4.jpeg?v=1563229048&width=100',
-    src:
-      'https://cdn.shopify.com/s/files/1/0094/4098/5124/articles/demo-photo4.jpeg?v=1563229048',
+    src: 'https://cdn.shopify.com/s/files/1/0094/4098/5124/articles/demo-photo4.jpeg?v=1563229048',
     type: 'image',
     altText: null
   },

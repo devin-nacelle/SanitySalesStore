@@ -1,8 +1,8 @@
 import { mount, shallowMount, createLocalVue } from '@vue/test-utils'
+import Vuex from 'vuex'
 import ContentHeroBanner from '@/components/nacelle/ContentHeroBanner'
 import CtaButton from '@/components/nacelle/CtaButton'
 import NacelleImage from '@/components/nacelle/image/NacelleImage'
-import Vuex from 'vuex'
 
 import storeConfig from '@/tests/storeConfig'
 
