@@ -1,13 +1,12 @@
 <template>
   <div class="page-content nacelle">
     <div v-if="page">
-      <div v-for="section in page.sections" :key="section.id">
+      <div v-for="section in page.sections" :key="section._id">
         <component
-          :is="getComponentDefinition(section.sys.contentType.sys.id)"
-          v-if="section.sys.contentType"
-          :id="section.fields.handle"
-          v-bind="section.fields"
-          :type="section.sys.contentType.sys.id"
+          :is="getComponentDefinition(section._type)"
+          v-if="section._type"
+          :id="section._id"
+          v-bind="section"
         />
       </div>
     </div>
