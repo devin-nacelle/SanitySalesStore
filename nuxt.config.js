@@ -1,11 +1,10 @@
 export default {
   target: 'static',
-
-  ssr: typeof process.env.NACELLE_PREVIEW_MODE === 'string' && 
-  process.env.NACELLE_PREVIEW_MODE === 'true',
+  ssr:
+    typeof process.env.NACELLE_PREVIEW_MODE === 'string' &&
+    process.env.NACELLE_PREVIEW_MODE === 'true',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
-
   head: {
     title: process.env.npm_package_name || '',
     meta: [
@@ -23,18 +22,6 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/global.scss'],
 
-  //Preview component look at this
-env: {
-  nacelleSpaceID: process.env.NACELLE_SPACE_ID,
-  nacelleToken: process.env.NACELLE_GRAPHQL_TOKEN,
-  buildMode: process.env.BUILD_MODE,
-  NACELLE_PREVIEW_MODE: process.env.NACELLE_PREVIEW_MODE,
-  SANITY_TOKEN: process.env.SANITY_TOKEN,
-  SANITY_PROJECT_ID: process.env.SANITY_PROJECT_ID,
-  SANITY_DATASET: process.env.SANITY_DATASET
-},
-
-
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: ['~/components/nacelle', '~/components/nacelle/image'],
 
@@ -46,7 +33,11 @@ env: {
     contentAssetStorage: process.env.CONTENT_ASSET_STORAGE || '',
     nacelleId: process.env.NACELLE_SPACE_ID,
     nacelleToken: process.env.NACELLE_GRAPHQL_TOKEN,
-    nacelleEndpoint: process.env.NACELLE_ENDPOINT
+    nacelleEndpoint: process.env.NACELLE_ENDPOINT,
+    NACELLE_PREVIEW_MODE: process.env.NACELLE_PREVIEW_MODE,
+    SANITY_TOKEN: process.env.SANITY_TOKEN,
+    SANITY_PROJECT_ID: process.env.SANITY_PROJECT_ID,
+    SANITY_DATASET: process.env.SANITY_DATASET
   },
   privateRuntimeConfig: {},
 
@@ -77,7 +68,7 @@ env: {
     { src: '~/plugins/nuxt-client-init.js', mode: 'client' },
     { src: '~/plugins/script-loader.js', mode: 'client' },
     { src: '~/plugins/vuex-product-module-registration.js' },
-    { src: '~/plugins/sanity-preview'}
+    { src: '~/plugins/sanity-previews.js' }
   ],
 
   /*
@@ -130,7 +121,7 @@ env: {
     }
   },
 
-  // Build Configuration: https://go.nuxtjs.dev/config-build hi
+  // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     extend(config) {
       config.node = {
